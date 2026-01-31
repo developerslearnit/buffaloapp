@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build:azure": "npm run build"
+  }
+}
